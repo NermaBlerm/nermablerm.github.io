@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './nep.png';
 import './App.css';
 
 function App() {
@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           My name is Norma Blerm and I'm going to master React!
+
         </p>
         <a
           className="App-link"
